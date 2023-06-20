@@ -10,10 +10,10 @@ keywords = [
     "ecdsa",
     "multi-party-ecdsa",
     "signature",
-    "rust",
+#    "rust",
     "secret-shares",
-    "blockchain",
-    "cryptography",
+#    "blockchain",
+#    "cryptography",
     "cryptocurrency"
 ]
 
