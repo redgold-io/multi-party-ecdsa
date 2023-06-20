@@ -17,6 +17,8 @@ keywords = [
     "cryptocurrency"
 ]
 
+description = "A Rust implementation of the GG18/GG20 multi-party ECDSA signature scheme"
+
 homepage = "https://github.com/KZen-networks/multi-party-ecdsa"
 repository = "https://github.com/KZen-networks/multi-party-ecdsa"
 license = "GPL-3.0-or-later"
